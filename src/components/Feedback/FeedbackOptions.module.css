@@ -1,0 +1,14 @@
+.wrap{
+    margin-left: 10px;
+}
+.button{
+    background-color: white;
+    border: 1px solid gainsboro;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+.button:hover {
+    background-color: rgb(69, 69, 239);
+    color: white;
+}
